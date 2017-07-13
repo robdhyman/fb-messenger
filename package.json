@@ -1,0 +1,23 @@
+{
+  "name": "fb-messenger",
+  "version": "0.0.1",
+  "description": "A Messenger Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robdhyman/fb-messenger.git"
+  },
+  "author": "Robert D Hyman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robdhyman/fb-messenger/issues"
+  },
+  "homepage": "https://github.com/robdhyman/fb-messenger#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
